@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1721840253 source:d:\msis-me\c programming\day_2_problems\day_2_problems\main.c
+	"day2.h"
+
+1721840250 source:d:\msis-me\c programming\day_2_problems\day_2_problems\day_2_operations.c
+	"day2.h"
+
+1721839250 d:\msis-me\c programming\day_2_problems\day_2_problems\day2.h
+	<stdio.h>
+	<stdlib.h>
+
